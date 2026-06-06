@@ -1,4 +1,4 @@
-# meshAssembler MVP - Maya 2026
+# meshAssembler - Maya 2026
 
 `meshAssembler` is a Maya `MPxNode` that assembles multiple deformed **source** meshes into one connected **target** mesh.
 
